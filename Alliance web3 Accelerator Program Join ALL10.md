@@ -1,4 +1,4 @@
-###### tags: `active project` `word`
+###### tags: `finished project` `word`
 
 # Alliance web3 Accelerator Program Join ALL10
 
@@ -118,13 +118,14 @@ mradamlieber@gmail.com
 
 ## Summarize your professional and academic background (3rd Founder)
 
-My foundations were laid with a fine art BA (University of Cape Town) and I simultaneously moved into music, composition, DJ, performance and running large scale music & cultural events for up to 5000 people. Then a scholarship at Fabrica in Italy 1.5 years - instalation, experential & music/sound across time based media. Followed by a Masters in Communication Art & Design at Royal College of Art in London. 15 years in music supervision, film & directing. 
+My foundations were laid with a fine art BA (University of Cape Town) and I simultaneously moved into music, composition, DJ, performance and running large scale music & cultural events for up to 5000 people. Then a scholarship at Fabrica in Italy 1.5 years - installation, experiential & music/sound across time based media. Followed by a Masters in Communication Art & Design at Royal College of Art in London and 15 years in music supervision, film & directing. 
 
-I officially fell into the spatial web / VR and 'meta'verse building via social VR around mid 2020 and then quickly web3 and early ML diffusion models. My deeper dive into web3 & thinking around public goods came with kernel in KB5 early 2022.
+I was taken with the spatial web/VR and 'meta'verse building via social VR around mid 2020 and simultaneously web3 and early ML diffusion models. My deeper dive into web3 & thinking around public goods came with Kernel in KB5 early 2022.
+
 
 ## Describe an instance where you demonstrated exceptional creativity or perseverance (3rd Founder)
 
-Rallied a team and built a social VR experience which was in official selection of Venice Film 2021. Currently plotting a traditional piece of media as a podcast which will investigate into a history of copyright, why it fails us and stifles inovation when we look at the way humans create cultural & artifacts. Highlighting different projects through history taking public domain content and locking up the IP as they are sadly incetivised to do so, and looking at projects pushing the concepts of open IP forward - with a view to onboarding the many whom have no idea about web3 and public goods coming from the tech stack.
+Rallied a team and built a social VR experience which was in official selection of Venice Film 2021. Currently building a podcast which looks at open IP models and investigates a history of copyright, why it fails us and stifles innovation.
 
 ## Add details on any other company founders not mentioned above.
 
@@ -136,7 +137,15 @@ Charles Blass is a curator-activator and mapper at the intersection of movement 
 
 Frances Miller [https://twitter.com/thisisfrances](https://twitter.com/thisisfrances)
 
+Frances is an Ethnomusicologist and PhD candidate at York University in Toronto. Her dissertation focuses on interpersonal synchrony and entertainment in community music making. She is a vocalist, guitar player and composer working on independent music projects, commercial projects, and commissions for contemporary dance. Miller worked as an operator and musician on Songcamp's CAMP CHAOS, a web3 music project and headless band that has been featured in Billboard Magazine. 
+
 MacEagon Voyce [https://www.maceagonvoyce.com](https://www.maceagonvoyce.com)
+
+MacEagon is a music head. He's got a B.A. in music (composition + vocal performance) from Carleton College and has lived lives in radio, music journalism, and music tech. He spends times building Grey Matter (a platform-agnostic community layer for music), writing about the intersection of music + web3, composing on his guitar and beat-up old piano, and building a new, less extractive, folk-driven internet.   
+
+Brennan Mulligan [https://www.linkedin.com/in/bmulligan56/](https://www.linkedin.com/in/bmulligan56/)
+
+Brennan Mulligan is a network leader, mechanism designer, and complexity wrangler cultivating systems of coordination in service of human flourishing and the common good.
 
 ## When and how did the founders meet? Have you worked together in the past?
 
